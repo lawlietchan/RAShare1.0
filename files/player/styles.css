@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:376px;
+  width:731px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -478,8 +478,8 @@
 #u933 {
   border-width:0px;
   position:absolute;
-  left:221px;
-  top:535px;
+  left:223px;
+  top:536px;
   width:65px;
   height:15px;
   font-size:13px;
@@ -723,4 +723,56 @@
   height:67px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
+}
+#u952_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:101px;
+  height:2px;
+}
+#u952 {
+  border-width:0px;
+  position:absolute;
+  left:371px;
+  top:523px;
+  width:100px;
+  height:1px;
+}
+#u953 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:96px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u954_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:260px;
+  height:57px;
+}
+#u954 {
+  border-width:0px;
+  position:absolute;
+  left:471px;
+  top:509px;
+  width:260px;
+  height:57px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+}
+#u955 {
+  border-width:0px;
+  position:absolute;
+  left:10px;
+  top:6px;
+  width:240px;
+  word-wrap:break-word;
 }
